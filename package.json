@@ -1,0 +1,15 @@
+{
+  "name": "basicwebapp",
+  "version": "1.0.0",
+  "description": "basicwebapp for jenkins project",
+  "main": "y",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
